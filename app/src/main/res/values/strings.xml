@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RickAndMortyApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nameText">Name: </string>
+    <string name="statusText">Status: </string>
+    <string name="speciesText">Species: </string>
+    <string name="image">image</string>
+    <string name="name_text">Location Name: </string>
+    <string name="type_text">Location Type: </string>
+    <string name="dimension_text">Location Dimension: </string>
+    <string name="number_of_residents">Number of residents: </string>
+    <string name="location">"Location: "</string>
+</resources>
