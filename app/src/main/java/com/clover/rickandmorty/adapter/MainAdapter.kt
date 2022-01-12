@@ -9,7 +9,7 @@ import java.net.URI
 
 class MainAdapter(
     private val onItemClicked: (String, Int) -> Unit
-): RecyclerView.Adapter<MainAdapter.DataViewHolder>() {
+) : RecyclerView.Adapter<MainAdapter.DataViewHolder>() {
 
     private var characters = emptyList<Character>()
 
